@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #424253;
+    color: #121111;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  
+  }
+  
+  .container {
+    text-align: center;
+    background: #5a99cd;
+    padding: 20px 40px;
+    border-radius: 100px;
+    box-shadow: 0 4px 8px rgba(218, 3, 157, 0.1);
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    color: #0b0a0a;
+  }
+  
+  .quote-box {
+    margin: 20px 0;
+    padding: 20px;
+    border-left: 4px solid #727980;
+    font-style: italic;
+    background: #f7f7f7;
+    border-radius: 100px;
+  }
